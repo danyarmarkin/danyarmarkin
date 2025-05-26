@@ -30,7 +30,7 @@ The addon allows you to receive updates with new models, as
 well as with fixes for old ones. the addon is written in python,
 the backend is written in Django Rest Framework.
 
-Product: [kanistra.com/addon](http://kanistra.com/addonn)
+Product: [kanistra.com/addon](http://kanistra.com/addon)
 
 2024
 
