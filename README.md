@@ -3,9 +3,9 @@
 ---
 
 ## About me
-Currently, the student is on the bachelor's degree program
-"Applied Mathematics and Computer Science: Programming
-and AI" at ITMO University. I have experience working in small
+Currently I am studying 
+"Applied Mathematics and Computer Science: Programming and AI"
+at ITMO University. I have experience working in small
 projects and hackathons.
 
 ---
@@ -25,8 +25,8 @@ photogrammetry.
 
 ### [Blender Add-On](https://github.com/danyarmarkin/KanistraAddOn)
 
-I was developing an addon for Blender to distribute 3D models.
-The addon allows you to receive updates with new models, as
+I developed an add-on for Blender to distribute 3D models.
+The add-on allows you to receive updates with new models, as
 well as with fixes for old ones. the addon is written in python,
 the backend is written in Django Rest Framework.
 
@@ -42,6 +42,7 @@ Product: [kanistra.com/addon](http://kanistra.com/addon)
 
 *Stack:*
 - Golang
+- Clean architecture
 - gRPC
 - easyp generation
 - PostgreSQL
@@ -102,7 +103,7 @@ of induction oxidation of oil formulations."
 - Requests
 - PIL
 - Tk
-- optima
+- optuna
 - scipy.optimize
 
 ### Java (ITMO CT course, 2 semesters)
