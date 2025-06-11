@@ -38,7 +38,7 @@ Product: [kanistra.com/addon](http://kanistra.com/addon)
 
 ## Pet-projects
 
-### Library Service (ITMO CT: Go Advance)
+### [Library Service (ITMO CT: Go Advance)](https://github.com/danyarmarkin/Library-Service-PET)
 
 *Stack:*
 - Golang
